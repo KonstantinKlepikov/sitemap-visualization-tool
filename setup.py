@@ -13,7 +13,7 @@ def reqs(*f):
 
 
 setup(
-    name='sitemapvis',
+    name='sitemap_vizualisation_tool',
     version='0.1',
     ackages=find_packages(),
     include_package_data=True,

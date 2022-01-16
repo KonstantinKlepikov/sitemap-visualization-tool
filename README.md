@@ -88,7 +88,7 @@ Open folder of this project and install python dependencies:
 
 Development mode:
 
-`pip install -e sitemapvis`
+`pip install -e .`
 
 For `jupyter_contrib_nbextensions` folow [activation guide](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html)
 
